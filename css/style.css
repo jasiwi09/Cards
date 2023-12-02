@@ -34,8 +34,8 @@ body {
     border-radius: 20px;
 }
 
-.card .img-box  {
-    
+.card:hover .img-box  {
+    filter: blur(1px);
 }
 
 
